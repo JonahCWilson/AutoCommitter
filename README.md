@@ -1,2 +1,2 @@
-# AutoCommiter
+# AutoCommitter
 Produces daily git commit.
